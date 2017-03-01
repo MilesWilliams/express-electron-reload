@@ -36,6 +36,14 @@
     "jshint-stylish": "^2.2.0",
     "webpack": "^1.13.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MilesWilliams/express-electron-reload.git"
+  },
   "author": "MilesWilliams",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MilesWilliams/express-electron-reload/issues"
+  },
+  "homepage": "https://github.com/MilesWilliams/express-electron-reload#readme"
 }
